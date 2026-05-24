@@ -62,5 +62,13 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+
+<img width="1278" height="827" alt="image" src="https://github.com/user-attachments/assets/27a1f9df-5d35-43b3-9b25-de03eeff3e6f" />
+
 ## Output
+
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/ae0e89a6-5f77-4e28-8aeb-8d1b1f039750" />
+
 ## Result
+
+Hence the output Voltage is obtained 
